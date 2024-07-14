@@ -9,4 +9,4 @@ This GitHub repository is a powerful tool for anyone who needs to clean up metad
 
 # Need help?
 
-GoofyDev#1055
+carljungmind
