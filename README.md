@@ -1,7 +1,3 @@
-Here's a GitHub README file for your Python script that processes files or folders, including colored output and EXIF data manipulation:
-
----
-
 # File Processor & EXIF Tool 🗂️✨
 
 A Python script to interactively process files or folders, allowing you to read, write, or remove EXIF metadata. The script features colored terminal output and a simple interface to streamline the task of managing file metadata.
@@ -91,7 +87,3 @@ Contributions are welcome! Feel free to fork this repository, submit a pull requ
 ## Acknowledgments 🙌
 
 - Thanks to the developers of `ExifTool` for providing such a robust tool for managing EXIF data.
-
----
-
-Feel free to update the URLs, placeholders, and any other details as necessary!
